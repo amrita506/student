@@ -1,3 +1,4 @@
+print("Hello World")
 import pickle
 from tkinter import *
 student = {}
